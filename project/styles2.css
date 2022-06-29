@@ -1,0 +1,19 @@
+body{
+    background-color: #f2f2f2;
+    margin:0;
+    padding:0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.btns5{
+    padding-top: 40px;
+    display: flex;
+    flex-direction:column;
+    margin:auto;
+    border:2px solid green;
+}
+.ind{
+    padding:20px;
+}
